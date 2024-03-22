@@ -8,7 +8,7 @@ tag:
   - Markdown
 ---
 
-VuePress 主要从 Markdown 文件生成页面。因此，你可以使用它轻松生成文档或博客站点。
+VuePress 主要从 Markdown 文件生成页面。因此，你可以使用它轻松生成文档或平安站点。
 
 你应该创建和编写 Markdown 文件，以便 VuePress 可以根据文件结构将它们转换为不同的页面。
 
@@ -170,7 +170,7 @@ npm i -D vuepress-theme-hope
 #### 组件
 
 ```component VPCard
-title: Mr.Hope
+title: 平安
 desc: Where there is light, there is hope
 logo: https://mister-hope.com/logo.svg
 link: https://mister-hope.com
@@ -187,7 +187,7 @@ background: rgba(253, 230, 138, 0.15)
 
 #### 样式化
 
-向 Mr.Hope 捐赠一杯咖啡。 _Recommended_
+向 平安 捐赠一杯咖啡。 _Recommended_
 
 - [查看详情](https://theme-hope.vuejs.press/zh/guide/markdown/stylize.html)
 
