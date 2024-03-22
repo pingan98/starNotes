@@ -27,6 +27,7 @@ export default navbar([
           { text: "环境光和点光源组合", icon: "pen-to-square", link: "12环境光和点光源组合" },
           { text: "Vector3三维向量介绍", icon: "pen-to-square", link: "13Vector3三维向量介绍" },
           { text: "欧拉角", icon: "pen-to-square", link: "14欧拉角" },
+          { text: "Blender", icon: "pen-to-square", link: "15Blender" },
         ],
       },
       // { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
