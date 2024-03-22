@@ -2,6 +2,7 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
   "/": [
+    "intro",
     "",
     {
       text: "如何使用",
@@ -11,12 +12,17 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "文章",
+      text: "其他文章",
       icon: "book",
-      prefix: "posts/",
+      link: "https://pingan98.github.io/pages/vue3-status-star/vue3/star1.html",
+    },
+    {
+      text: "Three",
+      icon: "book",
+      prefix: "posts/Three",
+      link: "posts/Three/",
       children: "structure",
     },
-    "intro",
     {
       text: "幻灯片",
       icon: "person-chalkboard",
