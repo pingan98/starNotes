@@ -2,12 +2,12 @@
 icon: pen-to-square
 date: 2024-03-21
 category:
-  - three.js
+  - 02 three.js
 tag:
   - 常用
 ---
 
-# 结合框架开发配置three.js
+# 02 结合框架开发配置three.js
 
 ## 结合框架开发配置 一个初模板
 

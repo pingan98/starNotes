@@ -4,11 +4,11 @@ date: 2024-03-21
 category:
   - three.js
 tag:
-  - 初识 安装
+  - 01 初识 安装
 star: true
 ---
 
-# 初识 安装three.js
+# 01 初识 安装three.js
 
 [中文文档下载地址](https://gitee.com/xin_hu199/threejs-code-public)  下载到本地 安装依赖 运行查看中文文档提高便捷性
 

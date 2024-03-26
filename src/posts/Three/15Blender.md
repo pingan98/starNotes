@@ -8,7 +8,7 @@ tag:
 star: true
 ---
 
-# Blender
+# 15 Blender
 ### 使用 Blender 创建GLTF或GLB
 ```html
 <template>

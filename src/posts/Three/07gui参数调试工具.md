@@ -8,7 +8,7 @@ tag:
 star: true
 ---
 
-# gui参数调试工具
+# 07 gui参数调试工具
 
 ```html
 <template>

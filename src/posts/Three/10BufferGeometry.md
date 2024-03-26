@@ -8,7 +8,7 @@ tag:
 star: true
 ---
 
-# BufferGeometry  构建自定义几何体
+# 10 BufferGeometry  构建自定义几何体
 
 ```html
 <template>
