@@ -35,6 +35,22 @@ export default navbar([
     ],
   },
   {
+    text: "学习篇",
+    icon: "pen-to-square",
+    prefix: "/posts/",
+    children: [
+      {
+        text: "学习篇",
+        icon: "pen-to-square",
+        prefix: "Study/", // 多个页面写法
+        children: [
+          { text: "01.篇章1", icon: "pen-to-square", link: "01.篇章1" },
+          { text: "02.篇章2", icon: "pen-to-square", link: "02.篇章2" },
+        ],
+      },
+    ],
+  },
+  {
     text: "React系列",
     icon: "react",
     prefix: "/posts/",
