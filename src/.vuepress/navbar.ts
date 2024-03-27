@@ -3,6 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 // 顶部导航
 export default navbar([
   "/",
+  "/demo/",
   {
     text: "Three.js",
     icon: "pen-to-square",
@@ -63,7 +64,6 @@ export default navbar([
       ],
     },],
   },
-  "/demo/",
   {
     text: "V2 文档",
     icon: "book",

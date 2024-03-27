@@ -24,6 +24,13 @@ export default sidebar({
       children: "structure",
     },
     {
+      text: "学习篇",
+      icon: "book",
+      prefix: "posts/Study",
+      link: "posts/Study/",
+      children: "structure",
+    },
+    {
       text: "幻灯片",
       icon: "person-chalkboard",
       link: "https://plugin-md-enhance.vuejs.press/zh/guide/content/revealjs/demo.html",
