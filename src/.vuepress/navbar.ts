@@ -47,6 +47,7 @@ export default navbar([
         children: [
           { text: "01.篇章1", icon: "pen-to-square", link: "01.篇章1" },
           { text: "02.篇章2", icon: "pen-to-square", link: "02.篇章2" },
+          { text: "03.篇章3", icon: "pen-to-square", link: "03.篇章3" },
         ],
       },
     ],
