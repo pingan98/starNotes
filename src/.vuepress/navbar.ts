@@ -51,6 +51,7 @@ export default navbar([
           { text: "04.篇章4", icon: "pen-to-square", link: "04.篇章4" },
           { text: "05.篇章5", icon: "pen-to-square", link: "05.篇章5" },
           { text: "06.篇章6", icon: "pen-to-square", link: "06.篇章6" },
+          { text: "07.篇章7", icon: "pen-to-square", link: "07.篇章7" },
         ],
       },
     ],
