@@ -34,8 +34,8 @@ export default hopeTheme({
     description: "一个前端开发者",
     intro: "/intro.html",
     medias: {
-      Baidu: "https://example.com",
-      BiliBili: "https://example.com",
+      Baidu: "https://www.baidu.com",
+      BiliBili: "https://www.bilibili.com",
       // Bitbucket: "https://example.com",
       // Dingding: "https://example.com",
       // Discord: "https://example.com",
@@ -79,6 +79,7 @@ export default hopeTheme({
       "/posts/Study/04.篇章4.html": ["7777777"],
       "/posts/Study/05.篇章5.html": ["7777777"],
       "/posts/Study/06.篇章6.html": ["7777777"],
+      "/posts/Study/08.篇章8.html": ["7777777"],
     },
   },
 
