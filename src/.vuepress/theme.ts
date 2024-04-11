@@ -74,7 +74,7 @@ export default hopeTheme({
     config: {
       "/demo/encrypt.html": ["1234"],
       // "/posts/Study/01.篇章1.html": ["7777777"],
-      "/posts/Study/02.篇章2.html": ["7777777"],
+      // "/posts/Study/02.篇章2.html": ["7777777"],
       // "/posts/Study/03.篇章3.html": ["7777777"],
       // "/posts/Study/04.篇章4.html": ["7777777"],
       // "/posts/Study/05.篇章5.html": ["7777777"],
